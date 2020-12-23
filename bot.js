@@ -46,8 +46,8 @@ client.on("guildMemberAdd", (member) => {
         var invite = invites.find(_i => gi.has(_i.code) && gi.get(_i.code).uses < _i.uses) || gi.find(_i => !invites.has(_i.code)) || guild.vanityURLCode;
         Invites.set(member.guild.id, invites);
         var content = `${member} is joined the server.`, total = 0, regular = 0, _fake = 0, bonus = 0;
-        if(invite == guild.vanityURLCode) content = settings.defaultMessage ? settings.defaultMessage : `-member- is joined the server! But don't know that invitation he came up with. :tada:`;
-        else content = settings.welcomeMessage ? settings.welcomeMessage : `The -member-, joined the server using the invitation of the -target-.`;
+        if(invite == guild.vanityURLCode) content = settings.defaultMessage ? settings.defaultMessage : `-member- joined the server! But don't know that invitation he came up with. :tada:`;
+        else content = settings.welcomeMessage ? settings.welcomeMessage : `The -member-, joined the server using the invitation of the -target-. Thank you -target-!`;
 
         if (invite.inviter) { 
             db.set(`invites.${member.id}.inviter`, invite.inviter.id); 
@@ -83,7 +83,7 @@ client.on("guildMemberAdd", (member) => {
 
 client.on("guildMemberRemove", (member) => {
     const db = new Database("./Servers/" + member.guild.id, "Invites"), settings = new Database("./Servers/" + member.guild.id, "Settings").get("settings") || {};
-    var total = 0, bonus = 0, regular = 0, fakecount = 0, channel = member.guild.channels.cache.get(settings.Channel), content = settings.leaveMessage ? settings.leaveMessage : `${member} is left the server.`, data = db.get(`invites.${member.id}`);
+    var total = 0, bonus = 0, regular = 0, fakecount = 0, channel = member.guild.channels.cache.get(settings.Channel), content = settings.leaveMessage ? settings.leaveMessage : `${member} left the server.`, data = db.get(`invites.${member.id}`);
     if(!data){
         if(channel){
             content = content
