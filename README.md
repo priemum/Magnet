@@ -13,26 +13,37 @@ This repo aims to collect the all `awesome beautiful READMEs profile` and make y
 
 If you are intersted, will create a PR for to add your `README` profile here.
 
-## Contents
-  - [Github README PROFILE CATEGORY](#github-readme-profile-category)
+## 📄 Changelog
+  - Leaderboard
+  - Database
+  - Bonus command
+  - Major bug fixes
+  - Welcome channel
+  - Welcome message (in welcome channel)
+  - Auto logger (in server)
+  - Auto logger (in database)
+Read full changelog [here](https://github.com/by-Philip/InviteTracker/main/CHANGELOG.md)
 
-## Github README PROFILE CATEGORY
+## 🔭 Upcomming
+  - Major bug fixes
+  - Reorganization
+  - Better responses
+  - Faster responses
 
-- [ ] [Art](art)
-
-- [Profile Summary For Github](https://profile-summary-for-github.com/search)
-
+Later: 
+  - Funny commands
+  - Moderation commands
 
 ## 💻 Contribution
 Contributions are always welcome! Please create a Pull Request to add your request or sugestion.
 
 ## 🚀 Show your support
-Give a ⭐️ if this open source project helped you!
+Give a ⭐️ if this open source project helped you! And share this with your community, so we can grow and make more projects like this.
 
-## Contact - ☎️
+## ☎️ Contact
 Do you have any questions, suggestions or founded bugs? Please report this by contacting us or by starting a discussion. We are also always open to possible cooperation.
 - ✉️ - [Mail](mailto:contact@byphilip.ga)
-- 🦜 - [Twitter](https://twitter.com/byPhilip_Inc)
+- 🐦 - [Twitter](https://twitter.com/byPhilip_Inc)
 
 ## :pencil: License & Copyright
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
