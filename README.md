@@ -9,6 +9,7 @@
 <a href="https://github.com/by-Philip/InviteTracker/blob/master/LICENSE"><img src="https://img.shields.io/github/license/by-Philip/InviteTracker?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
+
 ## 📄 Changelog
   - Leaderboard
   - Database
