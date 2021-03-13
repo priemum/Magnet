@@ -30,9 +30,9 @@ Read full changelog [here](https://github.com/by-Philip/InviteTracker/main/CHANG
   - Better responses
   - Faster responses
 
-Later: 
-  - Funny commands
-  - Moderation commands
+<p>Later:<br>
+  • Funny commands<br>
+  • Moderation commands</p>
 
 ## 💻 Contribution
 Contributions are always welcome! Please create a Pull Request to add your request or sugestion.
