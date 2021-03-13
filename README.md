@@ -18,8 +18,9 @@
   - Welcome channel
   - Welcome message (in welcome channel)
   - Auto logger (in server)
-  - Auto logger (in database)
-Read full changelog [here](https://github.com/by-Philip/InviteTracker/main/CHANGELOG.md)
+  - Auto logger (in database)\
+  
+Read full changelog [here](https://github.com/by-Philip/InviteTracker/main/CHANGELOG.md).
 
 ## 🔭 Upcomming
   - Major bug fixes
