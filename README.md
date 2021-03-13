@@ -30,8 +30,7 @@ Read full changelog [here](https://github.com/by-Philip/InviteTracker/main/CHANG
   - Better responses
   - Faster responses
 
-Later:
-  - Funny commands
+Later: <br> - Funny commands
   - Moderation commands
 
 ## 💻 Contribution
