@@ -1,5 +1,5 @@
-<h1 align="center">Invite Tracker</h1>
-<p align="center"><i>📮 Invite Tracker Discord Bot 🤖 - Track the hero who made your server a bit bigger. Mention it in your server and reward them. Use this usefully Discord Bot also as a funny and moderators bot.</i></p>
+<h1 align="center">📮 Invite Tracker</h1>
+<p align="center"><i>🤖 Invite Tracker Discord Bot - Track the hero who made your server a bit bigger. Mention it in your server and reward them. Use this usefully Discord Bot also as a funny and moderators bot.</i></p>
 <div align="center">
   <a href="https://github.com/by-Philip/InviteTracker/stargazers"><img src="https://img.shields.io/github/stars/by-Philip/InviteTracker" alt="Stars Badge"/></a>
 <a href="https://github.com/by-Philip/InviteTracker/network/members"><img src="https://img.shields.io/github/forks/by-Philip/InviteTracker" alt="Forks Badge"/></a>
