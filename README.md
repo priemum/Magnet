@@ -42,8 +42,8 @@ Give a ⭐️ if this open source project helped you! And share this with your c
 
 ## ☎️ Contact
 Do you have any questions, suggestions or founded bugs? Please report this by contacting us or by starting a discussion. We are also always open to possible cooperation.
-- ✉️ - [Mail](mailto:contact@byphilip.ga)
-- 🐦 - [Twitter](https://twitter.com/byPhilip_Inc)
+✉️ [Mail](mailto:contact@byphilip.ga)
+🐦 [Twitter](https://twitter.com/byPhilip_Inc)
 
 ## :pencil: License & Copyright
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
