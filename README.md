@@ -9,8 +9,6 @@
 <a href="https://github.com/by-Philip/InviteTracker/blob/master/LICENSE"><img src="https://img.shields.io/github/license/by-Philip/InviteTracker?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
-<p align="center"><i>Loved the project? Please visit our <a href="https://awesome-github-readme-profile.netlify.app">Website</a></i></p>
-<br>
 This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
 
 If you are intersted, will create a PR for to add your `README` profile here.
