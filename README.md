@@ -13,27 +13,15 @@ This repo aims to collect the all `awesome beautiful READMEs profile` and make y
 
 If you are intersted, will create a PR for to add your `README` profile here.
 
-If you like this Repo, Please click the :star:
-
-List of `awesome README Profile` categories mentioned below
-
 ## Contents
   - [Github README PROFILE CATEGORY](#github-readme-profile-category)
-  - [List out `Awesome README Profile` Tools](#list-out-awesome-readme-profile-tools)
-  - [List out `Awesome README Profile` Articles](#list-out-awesome-readme-profile-articles)
-  - [Contribute](#contribute)
 
 ## Github README PROFILE CATEGORY
 
 - [ ] [Art](art)
-- [ ] [Code Styled](code-styled)
-
-# List out `Awesome README Profile` Tools
 
 - [Profile Summary For Github](https://profile-summary-for-github.com/search)
-- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
-- [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
-- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
+
 
 ## 💻 Contribution
 Contributions are always welcome! Please create a Pull Request to add your request or sugestion.
