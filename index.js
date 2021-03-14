@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const fs = require("fs");
 const Settings = global.Settings = require("./Settings/Settings.json");
 
-console.log("Launching bot...");
+console.log("Waking up Invite Tracker Bot... 💤🥞");
 let _client = new Discord.Client();
 if (Settings.Private_Server === true) {
     _client = new Discord.Client({
@@ -13,7 +13,7 @@ const client = global.client = _client;
 const Commands = global.Commands = new Map();
 
 console.log("--------------------------------");
-console.log("Loading commands...");
+console.log("Loading commands... 🔭⚙️");
 fs.readdirSync("./Commands", { encoding: "utf-8" }).filter(file => file.endsWith(".js")).forEach(file => {
     let prop = require(`./Commands/${file}`);
     if (prop.conf.commands == undefined || prop.run == undefined) return console.error(`[COMMAND] ${file} is not load.`);
@@ -24,7 +24,7 @@ fs.readdirSync("./Commands", { encoding: "utf-8" }).filter(file => file.endsWith
     console.log(`[COMMAND] A total of ${prop.conf.commands.length} supporters have been installed for ${file}.`);
 });
 console.log("--------------------------------");
-console.log("Loading events...");
+console.log("Loading events... 🐟🎪");
 fs.readdirSync("./Events", { encoding: "utf-8" }).filter(file => file.endsWith(".js")).forEach(file => {
     let prop = require(`./Events/${file}`);
     client.on(prop.conf.event, prop.execute);
@@ -32,6 +32,6 @@ fs.readdirSync("./Events", { encoding: "utf-8" }).filter(file => file.endsWith("
 });
 
 console.log("--------------------------------");
-console.log("| Preparation has been completed. Starting the bot now |");
+console.log("| Preparation has been succesfully completed. Bot is lauching... 🚀🌕 |");
 
 require("./bot.js");
