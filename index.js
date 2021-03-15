@@ -32,6 +32,6 @@ fs.readdirSync("./Events", { encoding: "utf-8" }).filter(file => file.endsWith("
 });
 
 console.log("--------------------------------");
-console.log("| Preparation has been succesfully completed. Bot is lauching... 🚀🌕 |");
+console.log("Preparation has been succesfully completed. Bot is launched! 🚀🌕");
 
 require("./bot.js");
