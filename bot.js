@@ -47,7 +47,7 @@ client.on("guildMemberAdd", (member) => {
         Invites.set(member.guild.id, invites);
         var content = `${member} is joined the server.`, total = 0, regular = 0, _fake = 0, bonus = 0;
         if(invite == guild.vanityURLCode) content = settings.defaultMessage ? settings.defaultMessage : `-member- joined the server! But don't know that invitation he came up with. :tada:`;
-        else content = settings.welcomeMessage ? settings.welcomeMessage : `The -member-, joined the server using the invitation of the -target-. Thank you -target-!`;
+        else content = settings.welcomeMessage ? settings.welcomeMessage : `The -member-, joined the server using the invitation of the -target-.`;
 
         if (invite.inviter) { 
             db.set(`invites.${member.id}.inviter`, invite.inviter.id); 
