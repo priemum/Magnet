@@ -19,7 +19,7 @@
   - Welcome message (in welcome channel)
   - Auto logger (in server)
   - Auto logger (in database)\
-  
+
 Read full changelog [here](https://github.com/by-Philip/InviteTracker/main/CHANGELOG.md).
 
 ## 🔭 Upcomming
@@ -45,5 +45,6 @@ Do you have any questions, suggestions or founded bugs? Please report this by co
 ## :pencil: License & Copyright
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
 
-🪴 Open source project\
+🪴 Open source project
+\
 © by Philip 2021

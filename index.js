@@ -1,3 +1,6 @@
+// Copyright (c) by Philip
+// Licensed under the MIT License.
+
 const Discord = require("discord.js");
 const fs = require("fs");
 const Settings = global.Settings = require("./Settings/Settings.json");
