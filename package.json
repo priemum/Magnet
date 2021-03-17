@@ -1,6 +1,6 @@
 {
-  "name": "invite-manager",
-  "version": "1.0.0",
+  "name": "Invite Tracker Bot",
+  "version": "0.2.0",
   "description": "This bot is a simple Invite Manager. The data it invite activities. Serendia Squad",
   "main": "index.js",
   "scripts": {
@@ -9,16 +9,17 @@
   "keywords": [
     "bot",
     "invite",
-    "manager",
-    "invite-manager",
+    "tracker",
+    "invite-tracker",
     "discord",
-    "serendia",
-    "squad",
-    "Alosha"
+    "node",
+    "javasript",
+    "by Philip"
   ],
-  "author": "Alosha",
+  "author": "by Philip",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
   }
 }

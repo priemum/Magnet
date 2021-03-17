@@ -1,7 +1,10 @@
+// Copyright (c) by Philip
+// Licensed under the MIT License.
+
 const Discord = require("discord.js");
 
 /**
- * @param {Discord.Message} message 
+ * @param {Discord.Message} message
  */
 exports.execute = async (message) => {
     if(message.author.bot || !message.content.startsWith(global.Settings.Prefix)) return;

@@ -4,6 +4,7 @@
 const { Collection, Client } = require("discord.js");
 const Database = require("./Helpers/Database");
 const client = global.client;
+require('dotenv').config();
 
 //#region Invite Manager
 const Invites = new Collection();
@@ -139,4 +140,4 @@ global.onUpdateInvite = (guildMember, guild, total) => {
 }
 //#endregion
 
-client.login(global.Settings.Token);
+client.login();

@@ -1,3 +1,6 @@
+// Copyright (c) by Philip
+// Licensed under the MIT License.
+
 const fs = require("fs");
 
 class Database {

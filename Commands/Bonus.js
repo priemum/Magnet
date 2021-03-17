@@ -1,10 +1,13 @@
+// Copyright (c) by Philip
+// Licensed under the MIT License.
+
 const Discord = require("discord.js");
 const Database = require("../Helpers/Database");
 // exports.onLoad = (client) => {};
 /**
- * @param {Discord.Client} client 
- * @param {Discord.Message} message 
- * @param {Array<String>} args 
+ * @param {Discord.Client} client
+ * @param {Discord.Message} message
+ * @param {Array<String>} args
  */
 exports.run = async (client, message, args) => {
     if(!message.member.hasPermission("ADMINISTRATOR") && !message.member.hasPermission("MANAGE_GUILD")) return message.reply("you don't have a permission.");
