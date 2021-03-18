@@ -1,4 +1,4 @@
-// Copyright (c) by Phili
+// Copyright (c) by Philip
 // Licensed under the MIT License.
 
 const Discord = require("discord.js");
