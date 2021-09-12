@@ -48,3 +48,5 @@ This project is licensed under [MIT](https://opensource.org/licenses/MIT) licens
 🪴 Open source project
 \
 © by Philip 2021
+
+The v2 will be released Auntumn 2021
