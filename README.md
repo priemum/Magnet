@@ -2,8 +2,7 @@
   <img width="200"src="https://i.imgur.com/oqbtL7W.png" alt="Logo">
 </p>
 <h1 align="center">Magnet</h1>
-
-<p align="center"><i>🤖 Invite Tracker Discord Bot - Track the hero who made your server a bit bigger. Mention it in your server and reward them. Use this usefully Discord Bot also as a funny and moderators bot.</i></p>
+<p align="center"><i>🧲 Magnet - Not just a casual bot. - We provide tools for a better user experience. Moderation commands, funny commands and tracking commands.</i></p>
 
 <div align="center">
   <a href="https://github.com/by-Philip/InviteTracker/stargazers"><img src="https://img.shields.io/github/stars/by-Philip/InviteTracker" alt="Stars Badge"/></a>
@@ -15,6 +14,10 @@
 </div>
 <br>
 
-#
+# Tracking Manager
+Track the hero who made your community larger, and reward them.
+
+
+Magnet is an open source project.
 
 © by Philip 2021
