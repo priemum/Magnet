@@ -1,25 +1,27 @@
 {
-  "name": "Invite Tracker Bot",
-  "version": "0.2.0",
-  "description": "This bot is a simple Invite Manager. The data it invite activities. Serendia Squad",
+  "name": "magnet",
+  "version": "1.0.0",
+  "description": "You're powerful all-day bot with trackers and sub-bots. We deliver specific user experiences! 🧲",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "bot",
-    "invite",
-    "tracker",
-    "invite-tracker",
-    "discord",
-    "node",
-    "javasript",
-    "by Philip"
-  ],
-  "author": "by Philip",
-  "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0"
-  }
+    "chalk": "^4.1.0",
+    "discord-akairo": "^8.1.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "figlet": "^1.4.0",
+    "lodash": "^4.17.21",
+    "ms": "^2.1.2",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "keywords": [],
+  "author": "by-Philip",
+  "license": "MIT"
 }
