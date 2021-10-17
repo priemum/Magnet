@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="200"src="https:cdn.discordapp.comavatars883725140200947782eeecd0d58b06fce02090ba54c586bddf.png?size=240" alt="2048 Logo">
+  <img width="200"src="https://i.imgur.com/oqbtL7W.png" alt="Logo">
 </p>
 
-<p align="center">Can you reach tile 2048?</p>
+<p align="center">Magnet</p>
 
 
 
