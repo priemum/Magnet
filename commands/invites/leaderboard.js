@@ -1,5 +1,5 @@
 // © 2021 by Philip
-// This project is licenced under the MIT liscense, and is open source.
+// This project is licenced under the MIT liscense, and is open source. 
 
 const { Command } = require('discord-akairo')
 const { MessageEmbed } = require('discord.js');
