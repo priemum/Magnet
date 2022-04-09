@@ -18,9 +18,13 @@
 Track the hero who made your community larger, and reward them.
 
 Magnet is an open source project.
+
 © by Philip 2022
 
 
 
 ⚠️ IMPORTANT INFORMATION ABOUT UPDATES
+
 Currently this bot is not being updated, by contacting us you can show you're support for this project, and that can be a reason to continue it. 
+
+Our plan is to continue with the Magnet project when there is enough ask for it, and/or when the other projects allow this.
