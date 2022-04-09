@@ -17,7 +17,10 @@
 # Tracking Manager
 Track the hero who made your community larger, and reward them.
 
-
 Magnet is an open source project.
+© by Philip 2022
 
-© by Philip 2021
+
+
+⚠️ IMPORTANT INFORMATION ABOUT UPDATES
+Currently this bot is not being updated, by contacting us you can show you're support for this project, and that can be a reason to continue it. 
