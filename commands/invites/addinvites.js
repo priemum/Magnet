@@ -4,7 +4,7 @@
 const { Command } = require('discord-akairo');
 const { MessageEmbed } = require('discord.js');
 module.exports = class AddInvitesCommand extends Command {
-    constructor() {
+    constructor() {          
         super('addInvites', {
             description: {
                 content: 'Add the specified amount of invites to the mentioned members.',
